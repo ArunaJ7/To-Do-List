@@ -1,4 +1,4 @@
-# To-Do-ListCertainly! Here's a professionally phrased version of your text:
+# To-Do-List
 
 In the hustle and bustle of daily life, individuals often find themselves inundated with numerous tasks and responsibilities. To address this need for organization and efficiency, a dedicated to-do application emerges as a practical solution. This web-based project leverages the power of React.js to offer users a comprehensive tool for managing their tasks effectively. With its intuitive interface and robust functionality, this to-do list application aims to streamline task management and enhance productivity in users' daily routines.
 
